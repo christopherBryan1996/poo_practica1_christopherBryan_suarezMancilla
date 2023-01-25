@@ -8,7 +8,7 @@ package mx.com.gm.figuaras;
  *
  * @author manci
  */
-public class Figuaras {
+public class MainArtek {
 
     public static void main(String[] args) {
         Square square = new Square();

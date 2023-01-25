@@ -1,7 +1,7 @@
 package mx.com.gm.figuaras;
 
 public class Triangle {
-    float a,b,c,altura;
+    float a,b,c;
     
     public void perimetro (){
         float result=0;
